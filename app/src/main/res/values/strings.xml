@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bank App - Krupali Patel </string>
+
+    <string-array name="spinO">
+
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+        <item>Print Statement</item>
+
+
+    </string-array>
+
+</resources>
